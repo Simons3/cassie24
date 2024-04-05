@@ -2,7 +2,7 @@ class Main {
   public static void main( String args[ ] ) { 
        Avatar cassie = new Avatar( "sea", "trident" ); 
        cassie.fightBoss( );
-  } 
+  } //Bella
   public static class Avatar { 
        String type, weapon;
        public Avatar( String startType, String startWeapon ) {
